@@ -38,6 +38,10 @@ issues, as well as missing features.
 ************
 Installation
 ************
+set Base_url .application/config/config.php :http://localhost/login-full
+Login  :http://localhost/login-full/auth/
+email    :mir@gmail.com
+pass     :amri2516163
 
 Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
 of the CodeIgniter User Guide.
